@@ -1,8 +1,7 @@
 const cors = require('cors')
 
 const origin = [
-  "https://week-15-mnajmytsss.vercel.app", 
-  "https://charming-erin-sunbonnet.cyclic.cloud/",
+  "https://monumental-peony-72eadb.netlify.app/", 
 ];
 const partnerOrigin = [
   "http://localhost:3004",

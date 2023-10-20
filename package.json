@@ -8,7 +8,7 @@
     "dev": "nodemon index.js",
     "serve": "firebase emulators:start --only functions",
     "shell": "firebase functions:shell",
-    "start": "npm run shell",
+    "start": "npm run start",
     "deploy": "firebase deploy --only functions",
     "logs": "firebase functions:log"
   },
